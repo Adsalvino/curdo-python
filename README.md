@@ -1,1 +1,1 @@
-# curdo-python
+# curso-python
